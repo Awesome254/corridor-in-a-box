@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-289-add-pre-commit-hooks-prettier-eslint-on-staged",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-289-add-pre-commit-hooks-prettier-eslint-on-staged": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-289-add-pre-commit-hooks-prettier-eslint-on-staged",
+    "origin"
+  ]
+}
